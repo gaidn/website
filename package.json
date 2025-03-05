@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Global AI Developer Network 的开源网站项目。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@auth/core": "^0.34.2",
+    "next": "^15.2.1",
+    "next-auth": "^4.22.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
