@@ -21,13 +21,13 @@ GAIDN 致力于建立一个去中心化的全球 AI 开发者网络，以人为�
 
 ### 安装步骤
 1. 克隆仓库
-   git clone https://github.com/gaidn/website.git
-   cd website
-   
-2.安装依赖
-   npm install
-   
-3.配置环境变量
+git clone https://github.com/gaidn/website.git
+cd website
+
+2. 安装依赖
+npm install
+
+3. 配置环境变量
 复制 .env.example 文件到 .env.local 并填写相关配置
 
 4. 启动开发服务器
@@ -40,4 +40,4 @@ Copy
 
 ## 许可证
 
-MIT 
+MIT
